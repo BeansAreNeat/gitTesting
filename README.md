@@ -1,2 +1,4 @@
 # gitTesting
-Just setting up git
+
+Just setting up git,
+and testing its functionality
