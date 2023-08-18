@@ -1,2 +1,2 @@
 # gitTesting
-Just setting up git
+Just setting up and learning Git
